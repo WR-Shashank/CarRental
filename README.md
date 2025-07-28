@@ -35,6 +35,10 @@ A full-stack web application designed to provide a seamless car rental experienc
 
 ---
 
+## Screenshots
+<img width="938" height="1334" alt="image" src="https://github.com/user-attachments/assets/14d1977c-4128-40f3-bfc8-56ddd1a670c2" />
+
+
 ## 🚀 Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
