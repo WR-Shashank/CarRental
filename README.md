@@ -35,8 +35,16 @@ A full-stack web application designed to provide a seamless car rental experienc
 
 ---
 
-## Screenshots
-<img width="938" height="1334" alt="image" src="https://github.com/user-attachments/assets/14d1977c-4128-40f3-bfc8-56ddd1a670c2" />
+## Screenshot
+<img width="1470" height="956" alt="Screenshot 2025-07-21 at 8 57 46 PM" src="https://github.com/user-attachments/assets/5b824679-f6f6<img width="1470" height="956" alt="Screenshot 2025-07-21 at 8 58 51 PM" src="https://github.com/user-attachments/assets/89b1423b-5573-4547-bf73-0c767f8caf13" />
+-4420-ad0f-bb153c029c8c" />
+
+<img width="1470" height="956" alt="Screenshot 2025-07-21 at 8 59 06 PM" src="https://github.com/user-attachments/assets/13725683-6ee1-46c3-9a86-5c83234bbd28" />
+<img width="1470" height="956" alt="Screenshot 2025-07-21 at 8 59 17 PM" src="https://github.com/user-attachments/assets/7aa02dac-979b-45dc-9d4f-1fc318aaefae" />
+<img width="1470" height="956" alt="Screenshot 2025-07-21 at 8 59 55 PM" src="https://github.com/user-attachments/assets/ebe50da0-fbeb-40a6-ba99-7729a9943ed5" />
+
+
+
 
 
 ## 🚀 Getting Started
